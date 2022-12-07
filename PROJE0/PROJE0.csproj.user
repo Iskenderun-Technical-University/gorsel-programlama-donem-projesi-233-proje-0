@@ -13,8 +13,5 @@
     <Compile Update="Kontrol2.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Kontrol3.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
