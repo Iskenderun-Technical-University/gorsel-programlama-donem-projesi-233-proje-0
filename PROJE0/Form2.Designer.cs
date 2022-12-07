@@ -34,17 +34,19 @@
             // kontrol21
             // 
             this.kontrol21.BackColor = System.Drawing.Color.Peru;
-            this.kontrol21.Location = new System.Drawing.Point(7, 35);
+            this.kontrol21.Location = new System.Drawing.Point(-1, 1);
+            this.kontrol21.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.kontrol21.Name = "kontrol21";
-            this.kontrol21.Size = new System.Drawing.Size(1112, 597);
+            this.kontrol21.Size = new System.Drawing.Size(802, 437);
             this.kontrol21.TabIndex = 0;
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1131, 674);
+            this.ClientSize = new System.Drawing.Size(796, 427);
             this.Controls.Add(this.kontrol21);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form2";
             this.Text = "Form2";
             this.ResumeLayout(false);
