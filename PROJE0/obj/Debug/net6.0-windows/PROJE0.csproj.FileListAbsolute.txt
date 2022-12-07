@@ -17,3 +17,6 @@ C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\PROJE0.pdb
 C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\PROJE0.genruntimeconfig.cache
 C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\ref\PROJE0.dll
 C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\PROJE0.Properties.Resources.resources
+C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\PROJE0.Kontrol1.resources
+C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\PROJE0.Kontrol2.resources
+C:\Users\Tilki\source\repos\PROJE0\PROJE0\obj\Debug\net6.0-windows\PROJE0.Kontrol3.resources
