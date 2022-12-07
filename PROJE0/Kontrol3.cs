@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PROJE0
 {
-    public partial class UserControl2 : UserControl
+    public partial class Kontrol3 : UserControl
     {
-        public UserControl2()
+        public Kontrol3()
         {
             InitializeComponent();
         }
@@ -24,7 +24,8 @@ namespace PROJE0
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Siparişiniz Alınmıştır Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz");
+            
         }
     }
 }

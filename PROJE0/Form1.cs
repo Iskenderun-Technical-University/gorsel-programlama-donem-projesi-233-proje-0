@@ -9,12 +9,14 @@ namespace PROJE0
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            Form3 frm3 = new Form3();
+            frm3.Visible = true;
+            this.Hide();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -34,10 +36,24 @@ namespace PROJE0
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Form2 frm2 = new Form2();
+            frm2.Visible= true;
+            this.Hide();
+            
+          
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 frm1 = new Form1();
+            frm1.Visible = true;
+            this.Hide();
+        }
+            
+
+
+        private void kontrol11_Load(object sender, EventArgs e)
         {
 
         }

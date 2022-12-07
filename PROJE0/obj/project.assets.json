@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tilki\\.nuget\\packages\\": {}
+    "C:\\Users\\yahya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tilki\\source\\repos\\PROJE0\\PROJE0\\PROJE0.csproj",
+      "projectUniqueName": "C:\\Users\\yahya\\Desktop\\gorsel-programlama-donem-projesi-233-proje-0\\PROJE0\\PROJE0.csproj",
       "projectName": "PROJE0",
-      "projectPath": "C:\\Users\\Tilki\\source\\repos\\PROJE0\\PROJE0\\PROJE0.csproj",
-      "packagesPath": "C:\\Users\\Tilki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tilki\\source\\repos\\PROJE0\\PROJE0\\obj\\",
+      "projectPath": "C:\\Users\\yahya\\Desktop\\gorsel-programlama-donem-projesi-233-proje-0\\PROJE0\\PROJE0.csproj",
+      "packagesPath": "C:\\Users\\yahya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yahya\\Desktop\\gorsel-programlama-donem-projesi-233-proje-0\\PROJE0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tilki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yahya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

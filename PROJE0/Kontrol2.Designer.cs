@@ -56,6 +56,7 @@
             this.numericUpDown9 = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
@@ -76,9 +77,10 @@
             this.checkBox1.AutoSize = true;
             this.checkBox1.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox1.Location = new System.Drawing.Point(26, 25);
+            this.checkBox1.Location = new System.Drawing.Point(30, 34);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(226, 25);
+            this.checkBox1.Size = new System.Drawing.Size(281, 32);
             this.checkBox1.TabIndex = 0;
             this.checkBox1.Text = "Antk. Usulü Tavuk Döner  ";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -89,9 +91,10 @@
             this.checkBox2.AutoSize = true;
             this.checkBox2.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox2.Location = new System.Drawing.Point(31, 71);
+            this.checkBox2.Location = new System.Drawing.Point(30, 105);
+            this.checkBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(222, 25);
+            this.checkBox2.Size = new System.Drawing.Size(296, 32);
             this.checkBox2.TabIndex = 0;
             this.checkBox2.Text = "Kıyma Dürüm                      ";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -102,9 +105,10 @@
             this.checkBox3.AutoSize = true;
             this.checkBox3.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox3.Location = new System.Drawing.Point(26, 125);
+            this.checkBox3.Location = new System.Drawing.Point(26, 166);
+            this.checkBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(228, 25);
+            this.checkBox3.Size = new System.Drawing.Size(303, 32);
             this.checkBox3.TabIndex = 0;
             this.checkBox3.Text = "Kuşbaşı Dürüm                     ";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -115,9 +119,10 @@
             this.checkBox4.AutoSize = true;
             this.checkBox4.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox4.Location = new System.Drawing.Point(26, 170);
+            this.checkBox4.Location = new System.Drawing.Point(29, 232);
+            this.checkBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(228, 25);
+            this.checkBox4.Size = new System.Drawing.Size(297, 32);
             this.checkBox4.TabIndex = 0;
             this.checkBox4.Text = "Hamburger Menü                ";
             this.checkBox4.UseVisualStyleBackColor = true;
@@ -128,9 +133,10 @@
             this.checkBox5.AutoSize = true;
             this.checkBox5.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox5.Location = new System.Drawing.Point(26, 224);
+            this.checkBox5.Location = new System.Drawing.Point(30, 299);
+            this.checkBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(227, 25);
+            this.checkBox5.Size = new System.Drawing.Size(293, 32);
             this.checkBox5.TabIndex = 0;
             this.checkBox5.Text = "Tavuk Kanadı (1 kg)            ";
             this.checkBox5.UseVisualStyleBackColor = true;
@@ -141,9 +147,10 @@
             this.checkBox6.AutoSize = true;
             this.checkBox6.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox6.Location = new System.Drawing.Point(26, 273);
+            this.checkBox6.Location = new System.Drawing.Point(30, 364);
+            this.checkBox6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(226, 25);
+            this.checkBox6.Size = new System.Drawing.Size(295, 32);
             this.checkBox6.TabIndex = 0;
             this.checkBox6.Text = "Jambon Sandviç                  ";
             this.checkBox6.UseVisualStyleBackColor = true;
@@ -154,9 +161,10 @@
             this.checkBox7.AutoSize = true;
             this.checkBox7.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox7.Location = new System.Drawing.Point(26, 324);
+            this.checkBox7.Location = new System.Drawing.Point(30, 432);
+            this.checkBox7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(226, 25);
+            this.checkBox7.Size = new System.Drawing.Size(294, 32);
             this.checkBox7.TabIndex = 0;
             this.checkBox7.Text = "Mercimek Çorbası               ";
             this.checkBox7.UseVisualStyleBackColor = true;
@@ -167,9 +175,10 @@
             this.checkBox8.AutoSize = true;
             this.checkBox8.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox8.Location = new System.Drawing.Point(26, 380);
+            this.checkBox8.Location = new System.Drawing.Point(30, 507);
+            this.checkBox8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(225, 25);
+            this.checkBox8.Size = new System.Drawing.Size(299, 32);
             this.checkBox8.TabIndex = 0;
             this.checkBox8.Text = "İçli Köfte (Adet)                   ";
             this.checkBox8.UseVisualStyleBackColor = true;
@@ -177,65 +186,73 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(276, 29);
+            this.numericUpDown1.Location = new System.Drawing.Point(333, 39);
+            this.numericUpDown1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown1.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown1.TabIndex = 1;
             this.numericUpDown1.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown2
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(276, 75);
+            this.numericUpDown2.Location = new System.Drawing.Point(333, 101);
+            this.numericUpDown2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown2.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown2.TabIndex = 1;
             this.numericUpDown2.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown3
             // 
-            this.numericUpDown3.Location = new System.Drawing.Point(276, 125);
+            this.numericUpDown3.Location = new System.Drawing.Point(335, 167);
+            this.numericUpDown3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown3.Name = "numericUpDown3";
-            this.numericUpDown3.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown3.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown3.TabIndex = 1;
             this.numericUpDown3.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown4
             // 
-            this.numericUpDown4.Location = new System.Drawing.Point(276, 170);
+            this.numericUpDown4.Location = new System.Drawing.Point(335, 232);
+            this.numericUpDown4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown4.Name = "numericUpDown4";
-            this.numericUpDown4.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown4.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown4.TabIndex = 1;
             this.numericUpDown4.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown5
             // 
-            this.numericUpDown5.Location = new System.Drawing.Point(276, 224);
+            this.numericUpDown5.Location = new System.Drawing.Point(333, 299);
+            this.numericUpDown5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown5.Name = "numericUpDown5";
-            this.numericUpDown5.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown5.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown5.TabIndex = 1;
             this.numericUpDown5.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown6
             // 
-            this.numericUpDown6.Location = new System.Drawing.Point(276, 273);
+            this.numericUpDown6.Location = new System.Drawing.Point(333, 364);
+            this.numericUpDown6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown6.Name = "numericUpDown6";
-            this.numericUpDown6.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown6.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown6.TabIndex = 1;
             this.numericUpDown6.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown7
             // 
-            this.numericUpDown7.Location = new System.Drawing.Point(276, 326);
+            this.numericUpDown7.Location = new System.Drawing.Point(333, 432);
+            this.numericUpDown7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown7.Name = "numericUpDown7";
-            this.numericUpDown7.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown7.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown7.TabIndex = 1;
             this.numericUpDown7.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown8
             // 
-            this.numericUpDown8.Location = new System.Drawing.Point(276, 382);
+            this.numericUpDown8.Location = new System.Drawing.Point(335, 507);
+            this.numericUpDown8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown8.Name = "numericUpDown8";
-            this.numericUpDown8.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown8.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown8.TabIndex = 1;
             this.numericUpDown8.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
@@ -244,9 +261,10 @@
             this.checkBox9.AutoSize = true;
             this.checkBox9.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox9.Location = new System.Drawing.Point(412, 125);
+            this.checkBox9.Location = new System.Drawing.Point(471, 167);
+            this.checkBox9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(102, 25);
+            this.checkBox9.Size = new System.Drawing.Size(127, 32);
             this.checkBox9.TabIndex = 0;
             this.checkBox9.Text = "Şalgam    ";
             this.checkBox9.UseVisualStyleBackColor = true;
@@ -257,9 +275,10 @@
             this.checkBox10.AutoSize = true;
             this.checkBox10.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox10.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox10.Location = new System.Drawing.Point(410, 170);
+            this.checkBox10.Location = new System.Drawing.Point(469, 227);
+            this.checkBox10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(104, 25);
+            this.checkBox10.Size = new System.Drawing.Size(126, 32);
             this.checkBox10.TabIndex = 0;
             this.checkBox10.Text = "Coca Cola";
             this.checkBox10.UseVisualStyleBackColor = true;
@@ -270,9 +289,10 @@
             this.checkBox11.AutoSize = true;
             this.checkBox11.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox11.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox11.Location = new System.Drawing.Point(412, 75);
+            this.checkBox11.Location = new System.Drawing.Point(471, 100);
+            this.checkBox11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox11.Name = "checkBox11";
-            this.checkBox11.Size = new System.Drawing.Size(102, 25);
+            this.checkBox11.Size = new System.Drawing.Size(132, 32);
             this.checkBox11.TabIndex = 0;
             this.checkBox11.Text = "Ayran       ";
             this.checkBox11.UseVisualStyleBackColor = true;
@@ -283,9 +303,10 @@
             this.checkBox12.AutoSize = true;
             this.checkBox12.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox12.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox12.Location = new System.Drawing.Point(412, 224);
+            this.checkBox12.Location = new System.Drawing.Point(471, 299);
+            this.checkBox12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(102, 25);
+            this.checkBox12.Size = new System.Drawing.Size(131, 32);
             this.checkBox12.TabIndex = 0;
             this.checkBox12.Text = "Pepsi        ";
             this.checkBox12.UseVisualStyleBackColor = true;
@@ -293,33 +314,37 @@
             // 
             // numericUpDown10
             // 
-            this.numericUpDown10.Location = new System.Drawing.Point(530, 224);
+            this.numericUpDown10.Location = new System.Drawing.Point(606, 299);
+            this.numericUpDown10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown10.Name = "numericUpDown10";
-            this.numericUpDown10.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown10.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown10.TabIndex = 1;
             this.numericUpDown10.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown11
             // 
-            this.numericUpDown11.Location = new System.Drawing.Point(530, 79);
+            this.numericUpDown11.Location = new System.Drawing.Point(606, 105);
+            this.numericUpDown11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown11.Name = "numericUpDown11";
-            this.numericUpDown11.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown11.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown11.TabIndex = 1;
             this.numericUpDown11.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown12
             // 
-            this.numericUpDown12.Location = new System.Drawing.Point(530, 129);
+            this.numericUpDown12.Location = new System.Drawing.Point(606, 172);
+            this.numericUpDown12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown12.Name = "numericUpDown12";
-            this.numericUpDown12.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown12.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown12.TabIndex = 1;
             this.numericUpDown12.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // numericUpDown13
             // 
-            this.numericUpDown13.Location = new System.Drawing.Point(530, 174);
+            this.numericUpDown13.Location = new System.Drawing.Point(606, 232);
+            this.numericUpDown13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown13.Name = "numericUpDown13";
-            this.numericUpDown13.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown13.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown13.TabIndex = 1;
             this.numericUpDown13.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
@@ -328,9 +353,10 @@
             this.checkBox13.AutoSize = true;
             this.checkBox13.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBox13.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.checkBox13.Location = new System.Drawing.Point(412, 273);
+            this.checkBox13.Location = new System.Drawing.Point(471, 364);
+            this.checkBox13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.checkBox13.Name = "checkBox13";
-            this.checkBox13.Size = new System.Drawing.Size(102, 25);
+            this.checkBox13.Size = new System.Drawing.Size(132, 32);
             this.checkBox13.TabIndex = 0;
             this.checkBox13.Text = "Sprite       ";
             this.checkBox13.UseVisualStyleBackColor = true;
@@ -338,36 +364,49 @@
             // 
             // numericUpDown9
             // 
-            this.numericUpDown9.Location = new System.Drawing.Point(530, 277);
+            this.numericUpDown9.Location = new System.Drawing.Point(606, 369);
+            this.numericUpDown9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numericUpDown9.Name = "numericUpDown9";
-            this.numericUpDown9.Size = new System.Drawing.Size(79, 23);
+            this.numericUpDown9.Size = new System.Drawing.Size(90, 27);
             this.numericUpDown9.TabIndex = 1;
             this.numericUpDown9.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(493, 330);
+            this.label1.Location = new System.Drawing.Point(563, 440);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 15);
+            this.label1.Size = new System.Drawing.Size(0, 20);
             this.label1.TabIndex = 2;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(483, 9);
+            this.label2.Location = new System.Drawing.Point(552, 12);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(280, 30);
+            this.label2.Size = new System.Drawing.Size(355, 40);
             this.label2.TabIndex = 3;
             this.label2.Text = "*Yemek çeşitleri ilerleyen zamanlarda bünyemize\r\n katılan restoranlarla beraber a" +
     "rtacaktır. Afiyet olsun!";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button1.Location = new System.Drawing.Point(552, 480);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(191, 37);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "Sepeti Onayla";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Kontrol2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Peru;
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numericUpDown8);
@@ -396,9 +435,8 @@
             this.Controls.Add(this.checkBox3);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.checkBox1);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Kontrol2";
-            this.Size = new System.Drawing.Size(766, 462);
+            this.Size = new System.Drawing.Size(875, 616);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
@@ -447,5 +485,6 @@
         private NumericUpDown numericUpDown9;
         private Label label1;
         private Label label2;
+        private Button button1;
     }
 }

@@ -36,5 +36,12 @@ namespace PROJE0
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form3 frm3 = new Form3();
+            frm3.Visible = true;
+            this.Hide();
+        }
     }
 }

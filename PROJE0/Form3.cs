@@ -16,5 +16,11 @@ namespace PROJE0
         {
             InitializeComponent();
         }
+
+        private void kontrol31_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
+
 }

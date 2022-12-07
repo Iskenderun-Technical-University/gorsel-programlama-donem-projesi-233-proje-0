@@ -1,6 +1,6 @@
 ﻿namespace PROJE0
 {
-    partial class UserControl2
+    partial class Kontrol3
     {
         /// <summary> 
         ///Gerekli tasarımcı değişkeni.
@@ -39,7 +39,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(57, 111);
+            this.label1.Location = new System.Drawing.Point(16, 72);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(180, 62);
             this.label1.TabIndex = 0;
@@ -49,7 +49,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(57, 200);
+            this.label2.Location = new System.Drawing.Point(140, 192);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(285, 62);
             this.label2.TabIndex = 0;
@@ -58,7 +58,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Segoe UI", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(243, 122);
+            this.textBox1.Location = new System.Drawing.Point(220, 83);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(386, 51);
             this.textBox1.TabIndex = 1;
@@ -66,9 +66,9 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox2.Location = new System.Drawing.Point(348, 217);
+            this.textBox2.Location = new System.Drawing.Point(457, 209);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(177, 43);
+            this.textBox2.Size = new System.Drawing.Size(218, 43);
             this.textBox2.TabIndex = 1;
             // 
             // button1
@@ -76,7 +76,7 @@
             this.button1.BackColor = System.Drawing.Color.Orange;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(160, 306);
+            this.button1.Location = new System.Drawing.Point(342, 326);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(378, 65);
             this.button1.TabIndex = 2;
